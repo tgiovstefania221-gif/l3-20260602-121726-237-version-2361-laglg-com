@@ -1,16 +1,11 @@
-﻿# website-upload-20260602-121726-237
+# 经典亚洲电影-亚洲经典影片合集-高清电影持续更新
 
-Batch 237 of 38. Contains extracted static website versions. The original zip files are not committed.
+本目录为纯静态电影网站成品，可直接部署到任意静态空间。
 
-| Directory | Source zip |
-| --- | --- |
-| version-2361 | project-bolt-sb1-pw58kcgb-chatgpt (1) (moved 1).zip |
-| version-2362 | project-bolt-sb1-pw58kcgb-chatgpt (1).zip |
-| version-2363 | project-bolt-sb1-pwu3kkkm - 副本-chatgpt (1).zip |
-| version-2364 | project-bolt-sb1-pwu3kkkm-chatgpt (1) (moved 1).zip |
-| version-2365 | project-bolt-sb1-pwu3kkkm-chatgpt (1).zip |
-| version-2366 | project-bolt-sb1-pwxwdqqn - 副本-chatgpt (1).zip |
-| version-2367 | project-bolt-sb1-pwxwdqqn-chatgpt (1).zip |
-| version-2368 | project-bolt-sb1-pxdb5a7b - 副本-chatgpt (1) (moved 1).zip |
-| version-2369 | project-bolt-sb1-pxdb5a7b - 副本-chatgpt (1).zip |
-| version-2370 | project-bolt-sb1-pxdb5a7b-chatgpt (1) (moved 1).zip |
+- 影片详情页数量：2000
+- 分类页数量：8
+- 首页、分类总览、排行榜、搜索筛选均已生成
+- 所有 HTML 页面均已插入统计脚本
+- 影片封面按顶级目录 1.jpg 到 150.jpg 循环引用
+
+把 1.jpg 到 150.jpg 放在网站顶级目录后，页面会自动显示对应封面。
